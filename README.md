@@ -1,2 +1,2 @@
 # PrepcourseHenry
-Este es un repositorio de prueba del modulo 2 del Prepcourse Henry.
+Este proyecto es una prueba de como crear nuestro primer repositorio y como clonarlo a mi computadora.
